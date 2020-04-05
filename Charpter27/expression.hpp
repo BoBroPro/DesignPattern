@@ -1,10 +1,8 @@
 #ifndef _EXPRESSION_HPP
 #define _EXPRESSION_HPP
-#include<exception>
+
 #include"playcontext.hpp"
 
-#include<iostream>
-using namespace std;
 class Expression{
 public:
     void interpret(PlayContext* context){
