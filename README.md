@@ -1,6 +1,6 @@
 # Design Pattern
 
-All the code in this repository showed the cpp implements of Design Pattern in the book *大话设计模式*. Obviously, the every chapter is corresponding to one design pattern as listed bellow.
+All the code in this repository showed the cpp implements of Design Pattern in the book *大话设计模式<Java>*. Obviously, the every chapter is corresponding to one design pattern as listed bellow.
 
 **Chapter01** to **Simple Factory Pattern**
 
